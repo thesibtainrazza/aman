@@ -73,18 +73,22 @@ const socialImgs = [
   {
     name: "insta",
     imgPath: "/images/insta.png",
+    url:"https://www.instagram.com/harshsingh_s19/",
   },
   {
     name: "fb",
     imgPath: "/images/fb.png",
+    url:"https://www.instagram.com/harshsingh_s19/",
   },
   {
     name: "x",
     imgPath: "/images/x.png",
+    url:"https://x.com/Asengar88568",
   },
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
+    url:"https://www.linkedin.com/in/aman-singh-sengar",
   },
 ];
 
